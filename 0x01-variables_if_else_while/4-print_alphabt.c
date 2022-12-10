@@ -2,7 +2,8 @@
 #include <stdlib.h>
 /**
  * main - main block
- * Description: alphabets expect q and e
+ * 
+ *
  * Retrun: 0
  */
 int main(void)
