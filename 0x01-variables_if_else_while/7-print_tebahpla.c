@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - main block
+ * main - write alphabets reverse
  *
  *
  * Return Always 0
