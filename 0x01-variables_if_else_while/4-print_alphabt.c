@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * main - main block
- * 
+ * main - putchar alphabets
  *
- * Retrun: 0
+ *
+ * Return: Always 0
  */
 int main(void)
 {
