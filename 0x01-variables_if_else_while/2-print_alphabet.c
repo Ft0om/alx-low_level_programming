@@ -1,14 +1,16 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * main - main block 
+ * main - main block
  * Description: compare the chracter with z
  * Return: 0
  */
 int main(void)
 {
+
 	char c = 'a';
-	if (c <= 'z')
+
+        while (c <= 'z' )
 	{
 		putchar(c);
 		c++;
