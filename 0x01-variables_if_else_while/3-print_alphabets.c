@@ -14,7 +14,6 @@ int main(void)
 		putchar(ce);
 		ce++;
 	}
-	
 	ce = 'A';
 
 	while (ce <= 'Z')
