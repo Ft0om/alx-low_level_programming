@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * main - main block
+ * Main - main block
  * Discription: alphabets expect q and e
- * Retun: 0
+ * Retrun: 0
  */
 int main(void)
 {
