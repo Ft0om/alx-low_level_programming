@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- * main - write numbers
- *
- *
- * Return Always 0
+ * main - main block
+ *   
+ *  
+ * Return: Always 0
  */
 int main(void)
 {
@@ -11,7 +11,7 @@ int main(void)
 
 	while (i < 10)
 	{
-		putchar(i%10 + 'i');
+		putchar(i%10 + i);
 		i++;
 	}
 
