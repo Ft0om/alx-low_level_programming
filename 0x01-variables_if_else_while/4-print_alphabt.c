@@ -3,7 +3,7 @@
 /**
  * main - main block
  * Discription: alphabets expect q and e
- * retrun: 0
+ * Retrun: 0
  */
 int main(void)
 {
