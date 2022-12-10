@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- * main - write alphabets reverse
+ * main - main block
  *
  *
- * Return Always 0
+ * Return: 0
  */
 int main(void)
 {
