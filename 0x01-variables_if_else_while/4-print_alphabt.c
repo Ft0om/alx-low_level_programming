@@ -7,11 +7,11 @@
  */
 int main(void)
 {
-	char ce = 'a':
+	char ce = 'a';
 	
 	while (ce <= 'a')
 	{
-		if (ce != 'q' || 'e')
+		if (ce != 'q' && ce != 'e')
 		putchar(ce);
 		ce++;
 	}
