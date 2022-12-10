@@ -23,6 +23,6 @@ int main(void)
 		ce++;
 	}
 
-	putchar('\n')
+	putchar('\n');
 	return (0);
 }
