@@ -1,9 +1,12 @@
 #include <stdio.h>
 /**
- *  main - Prints all single digits of base 16 followed by new line
+ *
+ * main - Putchar 0123456789abcdef
  *
  *
- * Return Always 0
+ *
+ * Return: returns 0
+ *
  */
 int main(void)
 {
@@ -14,7 +17,7 @@ int main(void)
 		putchar(c % 10 + '0');
 
 	for (i = 'a'; i <= 'f'; i++)
-		putchar(c);
+		putchar(i);
 
 	putchar('\n');
 	return (0);
