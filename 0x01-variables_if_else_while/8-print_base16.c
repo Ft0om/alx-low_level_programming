@@ -1,12 +1,8 @@
 #include <stdio.h>
 /**
+ * main - main block
  *
- * main - Putchar 0123456789abcdef
- *
- *
- *
- * Return: returns 0
- *
+ * Return: 0
  */
 int main(void)
 {
