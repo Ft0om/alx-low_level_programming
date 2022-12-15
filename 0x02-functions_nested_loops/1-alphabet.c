@@ -1,4 +1,4 @@
-#inclue "main.h"
+#include "main.h"
 /**
  * main - main block
  *
@@ -6,11 +6,11 @@
  */
 void print_alphabet(void)
 {
-	char n;
+	char alpha;
 
-	for (n = 'a'; n <= 'z'; n++)
+	for (alpha = 'a'; alpha <= 'z'; alpha++)
 	{
-		_putchar('n');
+		_putchar('alpha');
 	}
 	_putchar('\n');
 }
