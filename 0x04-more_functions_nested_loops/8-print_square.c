@@ -5,7 +5,7 @@
  * Return: squares
  */
 
-void print_square(int size);
+void print_square(int size)
 {
 	int i, j;
 
