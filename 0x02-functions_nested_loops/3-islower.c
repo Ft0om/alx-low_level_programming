@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  * _islower - check the lower case
+ * @c: the input
  *
  * Return: 1 or 0
  */
